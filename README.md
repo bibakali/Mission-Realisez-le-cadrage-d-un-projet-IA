@@ -11,8 +11,11 @@ L’application sera réalisée en s’appuyant sur les outils cloud fournis par
 
 ## Source 
 [Exprésssions des besoins](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_V3_P10/Expression_besoins_Fashion_Insta.pdf)
+
 [Outils de calcul Azure](https://azure.microsoft.com/fr-fr/pricing/calculator/)
+
 [Traitemens des registres CNIL pour le respect de la RGPD](https://azure.microsoft.com/fr-fr/pricing/calculator/)
+
 [Analyser les risques semlon le contexte](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_V3_P10/Contexte_projet_Fashion_Insta.pdf)
 
 ## Axes d'orientations 
